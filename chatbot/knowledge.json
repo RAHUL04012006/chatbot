@@ -1,0 +1,35 @@
+{
+    "concepts": {
+        "java": "its a programming language"
+    },
+    "last_conversation": [
+        {
+            "timestamp": "2025-05-01T08:06:12.629822",
+            "message": "what is java"
+        },
+        {
+            "timestamp": "2025-05-01T08:06:23.209656",
+            "message": "its a programming language"
+        }
+    ],
+    "greetings": [
+        "Hello! How can I help you today?",
+        "Hi there! What would you like to know?"
+    ],
+    "goodbyes": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care!"
+    ],
+    "clarifications": [
+        "Could you please clarify what you mean?",
+        "I'm not sure I understand. Could you explain more?"
+    ],
+    "unknown_responses": [
+        "I don't know about that. Could you teach me?",
+        "I haven't learned about that yet. Could you help me?"
+    ],
+    "learning_acknowledgments": [
+        "Thank you! I've learned about that.",
+        "I appreciate you teaching me!"
+    ]
+}
